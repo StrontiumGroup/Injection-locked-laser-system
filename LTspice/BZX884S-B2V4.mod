@@ -1,0 +1,27 @@
+.SUBCKT BZX884S-B2V4 A C
+R1 A C 4E+07
+D1 A C
++ DIODE1
+D2 3 A
++ DIODE2
+VZ C 3 0.01
+*
+.MODEL DIODE1 D
++ IS = 5E-12
++ N = 1.4
++ BV = 2.1
++ IBV = 1.6E-08
++ RS = 0.8
++ CJO = 1.909E-10
++ VJ = 0.6
++ M = 0.31
++ FC = 0.5
++ TT = 0
++ EG = 1.1
++ XTI = 3
+.MODEL DIODE2 D
++ IS = 2E-09
++ N = 5.8
++ RS = 40
+.ENDS
+*
