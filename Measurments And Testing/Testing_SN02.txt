@@ -1,0 +1,27 @@
+
+
+v-No Shorts ±6V
+v-Apply ±6V / 100mA -> PwerSup ON -> meas. ±9mA
+>- 50Ohm term on inputs
+v- U1 out 0V
+v- U3 out 0V
+
+>-Apply 100Hz/500mVtt @ slow AC in
+v- scope measure rising freq. to signal=356mV (=-3dB); 12.5Khz (high cut-off)
+v- measure same signal on Tp2 (U2A-out)
+v- scope measure decreasing freq. to signal=356mV (=-3db); 15Hz (lo ccut-off)
+
+>-turn potmeter far left (is max gain; trimpot wrong wired)
+>-Apply 100Khz/500mVtt @ fast AC in
+v-scope measure rising freq. to signal=356mV (=-3dB); 1.8Mhz (high cut-off)
+v-scope measure decreasing freq. to signal=356mV (=-3db); 600Hz (lo ccut-off)
+
+>-Apply pos. curren 3V / 50mA
+>- connect yellow led
+v- At both input 0V measure 1.28V over Source res. 620R -> (=2mA)
+
+>-Apply 2Vtt at slow input
+v-measure Vtt over Rsource; 1.52V
+
+>-Apply 2Vtt at Fast input
+v-measure Vtt over Rsource; ~1.52V
