@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [LaserProtection_V10.PcbDoc]
+   Generated File[LaserProtection_V10.TXT]
+   Generated File[LaserProtection_V10.LDP]
+   Generated File[LaserProtection_V10.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:07:48 On 06-Nov-23

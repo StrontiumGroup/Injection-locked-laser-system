@@ -1,0 +1,33 @@
+Change Component DesignItemId : Designator=R20 Old DesignItemId=3296Z-1-502LF New DesignItemId=3296Y-1-502LF
+Change Component DesignItemId : Designator=D8 Old DesignItemId=LED_3mm_PcbEdgeSmd New DesignItemId=LED_3mm
+Change Component Footprint: Designator=R20 Old Footprint=Bourns 3296Z New Footprint=Bourns 3296Y
+Change Component Footprint: Designator=D8 Old Footprint=LED_3MM_PCB_EDGE_SMD New Footprint=LED_3mm
+Change Component Description : Designator=R20 Old Description=5K, 25 Turn, Side adjust thruhole trimpot Bourns 100pm New Description=5K, 25 Turn, Top adjust thruhole trimpot Bourns 100pm
+Change Component Description : Designator=D8 Old Description=Generic 3mm LED Footprint PCB Edge SMD Pads New Description=Generic 3mm LED Footprint
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LED_3MM_PCB_EDGE_SMD"; UniqueID = "\APHRKJVV" ("\APHRKJVV")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "26-May-16 08:35:38"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "39"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "LED_3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "710-151031SS04000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R20" ("R20"); Footprint = "Bourns 3296Z"; UniqueID = "\BFPGEIRV" ("\BFPGEIRV")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "29-Jun-23 07:57:20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "64"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "3296Y-1-502LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "5K/25T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "3296Y-1-502LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "5K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "9353631"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2

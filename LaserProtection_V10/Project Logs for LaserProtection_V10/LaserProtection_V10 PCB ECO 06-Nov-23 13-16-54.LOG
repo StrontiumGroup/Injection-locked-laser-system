@@ -1,0 +1,40 @@
+Added Component: Designator=TP1(Testpoint_1mm5)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(Testpoint_1mm5)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Testpoint_1mm5)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Testpoint_1mm5)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:33:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "143"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Testpoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Testpoint_1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Testpoint"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR17_1 Pin=TP1-1
+Added Pin To Net: NetName=NetC5_2 Pin=TP2-1
+Added Pin To Net: NetName=NetR21_2 Pin=TP3-1
+Added Pin To Net: NetName=NetC7_1 Pin=TP4-1
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component TP1 Testpoint
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component TP2 Testpoint
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component TP3 Testpoint
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component TP4 Testpoint

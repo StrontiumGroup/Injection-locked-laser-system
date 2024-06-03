@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=LD-Cathode-In Pin=C1-N
+Removed Pin From Net: NetName=LD-Anode-In Pin=C1-P
+Removed Pin From Net: NetName=LD-Cathode-In Pin=C2-N
+Removed Pin From Net: NetName=LD-Anode-In Pin=C2-P
+Change Component DesignItemId : Designator=C1 Old DesignItemId=EEEFTJ471XAP New DesignItemId=C3216X5R1A107M160AC
+Change Component DesignItemId : Designator=C2 Old DesignItemId=EEEFTJ471XAP New DesignItemId=C3216X5R1A107M160AC
+Change Component Footprint: Designator=C1 Old Footprint=capAluSmd_d6.3_h7.7mm New Footprint=cap1206MD
+Change Component Footprint: Designator=C2 Old Footprint=capAluSmd_d6.3_h7.7mm New Footprint=cap1206MD
+Change Component Comment : Designator=C1 Old Comment=470u 16V New Comment=100u 10V
+Change Component Comment : Designator=C2 Old Comment=470u 16V New Comment=100u 10V
+Change Component Description : Designator=C1 Old Description=Cap Alu-elec, SMD, 470 µF, 6.3 V, 0.16 ohm, d6.3h7.7 ±20% New Description=MLCC 100 µF, 10 V, 1206 [3216 Metric], ± 20%, X5R
+Change Component Description : Designator=C2 Old Description=Cap Alu-elec, SMD, 470 µF, 6.3 V, 0.16 ohm, d6.3h7.7 ±20% New Description=MLCC 100 µF, 10 V, 1206 [3216 Metric], ± 20%, X5R
+Change component parameters: Designator = "C1" ("C1"); Footprint = "capAluSmd_d6.3_h7.7mm"; UniqueID = "\ENBPXJRF" ("\ENBPXJRF")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "31-Oct-23 12:19:33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "82"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "100u 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2211193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "capAluSmd_d6.3_h7.7mm"; UniqueID = "\VQRETGPC" ("\VQRETGPC")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100u"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "31-Oct-23 12:19:33"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "82"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "100u 10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2211193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C14(cap1206MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Oct-23 12:19:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100u 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2211193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Component: Designator=C15(cap1206MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Oct-23 12:19:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "82"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100u 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "C3216X5R1A107M160AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2211193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LD-Anode-In Pin=C1-1
+Added Pin To Net: NetName=LD-Cathode-In Pin=C1-2
+Added Pin To Net: NetName=LD-Anode-In Pin=C2-1
+Added Pin To Net: NetName=LD-Cathode-In Pin=C2-2
+Added Pin To Net: NetName=LD-Anode-In Pin=C14-1
+Added Pin To Net: NetName=LD-Cathode-In Pin=C14-2
+Added Pin To Net: NetName=LD-Anode-In Pin=C15-1
+Added Pin To Net: NetName=LD-Cathode-In Pin=C15-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component C14 100u 10V
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component C15 100u 10V

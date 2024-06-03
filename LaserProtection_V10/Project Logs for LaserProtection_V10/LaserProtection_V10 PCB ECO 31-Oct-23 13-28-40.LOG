@@ -1,0 +1,22 @@
+Added Component: Designator=MH1(MountHole M3 NP keepout 6_5mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "M3 (3.2mm - NP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole M3 NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH2(MountHole M3 NP keepout 6_5mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "M3 (3.2mm - NP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole M3 NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH1 M3 (3.2mm - NP)
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH2 M3 (3.2mm - NP)

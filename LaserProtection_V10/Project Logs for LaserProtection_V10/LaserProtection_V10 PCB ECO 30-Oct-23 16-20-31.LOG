@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=J1 Old Footprint=618009231121 New Footprint=182-009-213Ryy1
+Change Component Comment : Designator=J1 Old Comment=618009231121 New Comment=182-009-213R531
+Change component parameters: Designator = "J1" ("J1"); Footprint = "618009231121"; UniqueID = "\MUGRJLAY" ("\MUGRJLAY")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "30-Oct-23 15:57:50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NorComp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "182-009-213R531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "182-009-213R531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "182-009-213R531"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2294288"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SODFL470X110-2N
+Added Component: Designator=J2(182-009-113Ryy1)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Oct-23 15:57:50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "166"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NorComp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "182-009-113R531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "182-009-113R531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "182-009-113R531"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2294285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "D-Sub"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Class Member: Failed to add class member : Component D1 RSX058LAP2STR
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component J2 182-009-113R531

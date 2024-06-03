@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=LaserProtection_Top_V10 Member=MH7
+Removed Member From Class: ClassName=LaserProtection_Top_V10 Member=MH8
+Change Component Footprint: Designator=MH4 Old Footprint=MountHole 4_5mm NP No keepout New Footprint=MountHole 5mm NP No keepout
+Change Component Footprint: Designator=MH6 Old Footprint=MountHole 6mm NP No keepout New Footprint=MountHole 5mm NP No keepout
+Change Component Footprint: Designator=MH3 Old Footprint=MountHole M4 NP No keepout New Footprint=MountHole 5mm NP No keepout
+Change Component Comment : Designator=MH4 Old Comment=4.5mm - NP New Comment=5.0mm - NP
+Change Component Comment : Designator=MH6 Old Comment=6.0mm - NP New Comment=5.0mm - NP
+Change Component Comment : Designator=MH3 Old Comment=M4 (4.2mm - NP) New Comment=5.0mm - NP
+Change component parameters: Designator = "MH3" ("MH3"); Footprint = "MountHole M4 NP No keepout"; UniqueID = "\QMFXIDWO" ("\QMFXIDWO")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "5.0mm - NP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "MountingHole 5.0mm No keepout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MH4" ("MH4"); Footprint = "MountHole 4_5mm NP No keepout"; UniqueID = "\HTIHACFO" ("\HTIHACFO")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "5.0mm - NP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "MountingHole 5.0mm No keepout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MH6" ("MH6"); Footprint = "MountHole 6mm NP No keepout"; UniqueID = "\TEFASWRW" ("\TEFASWRW")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "5.0mm - NP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "MountingHole 5.0mm No keepout"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"

@@ -1,0 +1,45 @@
+Change Component DesignItemId : Designator=P8 Old DesignItemId=PCB.114SMAFRA.YC New DesignItemId=PCB.114SMAFSTJ.A
+Change Component DesignItemId : Designator=P9 Old DesignItemId=PCB.114SMAFRA.YC New DesignItemId=PCB.114SMAFSTJ.A
+Change Component Footprint: Designator=P8 Old Footprint=PCB114SMAFRAYC New Footprint=PCB114SMAFSTJ
+Change Component Footprint: Designator=P9 Old Footprint=PCB114SMAFRAYC New Footprint=PCB114SMAFSTJ
+Change Component Description : Designator=P8 Old Description=SMA Coaxial, 19.5mm, 50 Ohm, Right Angle Jack, Through Hole New Description=SMA Coaxial, 17.7mm, 50 Ohm, Straight Jack, Through Hole
+Change Component Description : Designator=P9 Old Description=SMA Coaxial, 19.5mm, 50 Ohm, Right Angle Jack, Through Hole New Description=SMA Coaxial, 17.7mm, 50 Ohm, Straight Jack, Through Hole
+Change component parameters: Designator = "P8" ("P8"); Footprint = "PCB114SMAFRAYC"; UniqueID = "\TKBFXNDI" ("\TKBFXNDI")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 12:11:50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taoglas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "960-PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P9" ("P9"); Footprint = "PCB114SMAFRAYC"; UniqueID = "\IFLYTNPT" ("\IFLYTNPT")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 12:11:50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "150"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Taoglas"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ManufacturerCode"; Value = "PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "960-PCB.114SMAFSTJ.A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SODFL470X110-2N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "17-Sep-19 11:02:04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "65"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ROHM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "RSX058LAP2STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "RSX058LAP2STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "RSX058LAP2STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "755-RSX058LAP2STR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Schottky"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component D1 RSX058LAP2STR

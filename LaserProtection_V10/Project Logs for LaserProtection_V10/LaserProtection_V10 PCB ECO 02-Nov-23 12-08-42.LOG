@@ -1,0 +1,141 @@
+Added Component: Designator=D11(LED_3mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "26-May-16 08:35:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "39"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "LED_3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=Graph1(UVA_LOGO_SMALL_HOR)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:43:00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "158"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "UvA Logo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "UvA_Logo_Small_horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "<no part>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Logo"; VariantName = "[No Variations]"
+Added Component: Designator=P11(Pad_PT_c16h08mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.6h0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P12(Pad_PT_c16h08mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.6h0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P13(Pad_PT_c16h08mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.6h0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P14(Pad_PT_c16h08mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.6h0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P15(Pad_PT_c20h10mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c2.0h1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P16(Pad_PT_c20h10mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c2.0h1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P17(Pad_PT_c20h10mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c2.0h1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P18(Pad_PT_c20h10mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c2.0h1.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=R32(res0805HD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:26:57"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "259"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "<Value>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0805HD_Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_TEC Pin=D11-1
+Added Pin To Net: NetName=GND_TEC Pin=J2-7
+Added Pin To Net: NetName=GND_TEC Pin=P12-1
+Added Net: Name=GND_TEC
+Added Pin To Net: NetName=Led_TEC On+ Pin=J2-1
+Added Pin To Net: NetName=Led_TEC On+ Pin=P11-1
+Added Pin To Net: NetName=Led_TEC On+ Pin=R32-1
+Added Net: Name=Led_TEC On+
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R32-2
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=TEC1+ Pin=J2-4
+Added Pin To Net: NetName=TEC1+ Pin=P15-1
+Added Net: Name=TEC1+
+Added Pin To Net: NetName=TEC1- Pin=J2-6
+Added Pin To Net: NetName=TEC1- Pin=P17-1
+Added Net: Name=TEC1-
+Added Pin To Net: NetName=TEC2+ Pin=J2-5
+Added Pin To Net: NetName=TEC2+ Pin=P16-1
+Added Net: Name=TEC2+
+Added Pin To Net: NetName=TEC2- Pin=J2-8
+Added Pin To Net: NetName=TEC2- Pin=P18-1
+Added Net: Name=TEC2-
+Added Pin To Net: NetName=Th_a Pin=J2-2
+Added Pin To Net: NetName=Th_a Pin=P13-1
+Added Net: Name=Th_a
+Added Pin To Net: NetName=Th_b Pin=J2-3
+Added Pin To Net: NetName=Th_b Pin=P14-1
+Added Net: Name=Th_b
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component D11 3mm
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component Graph1 UvA Logo
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P11 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P12 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P13 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P14 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P15 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P16 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P17 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component P18 SolderPad
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component R32 <Value>

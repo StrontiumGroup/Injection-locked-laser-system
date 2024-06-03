@@ -1,0 +1,60 @@
+Added Component: Designator=MH3(MountHole M4 NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "159"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "M4 (4.2mm - NP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole M4 NP No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH4(MountHole 4_5mm NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "160"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4.5mm - NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole 4.5mm No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH5(MountHole 5mm NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "5.0mm - NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole 5.0mm No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH6(MountHole 6mm NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "162"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "6.0mm - NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole 6.0mm No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH7(MountHole 7mm NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "163"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "7.0mm - NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole 7.0mm No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Component: Designator=MH8(MountHole 8mm NP No keepout)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "12-Dec-22 11:28:31"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "164"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "8.0mm - NP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MountingHole 8.0mm No keepout"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Hole NP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH3 M4 (4.2mm - NP)
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH4 4.5mm - NP
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH5 5.0mm - NP
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH6 6.0mm - NP
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH7 7.0mm - NP
+Added Member To Class: ClassName=LaserProtection_Top_V10 Member=Component MH8 8.0mm - NP

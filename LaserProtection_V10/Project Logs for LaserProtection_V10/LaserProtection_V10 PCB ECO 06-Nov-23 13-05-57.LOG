@@ -1,0 +1,11 @@
+Change Component DesignItemId : Designator=Graph1 Old DesignItemId=UvA_Logo New DesignItemId=UvA_Logo_Small_horizontal
+Change Component Footprint: Designator=Graph1 Old Footprint=UvA_Logo New Footprint=UVA_LOGO_SMALL_HOR
+Change component parameters: Designator = "Graph1" ("Graph1"); Footprint = "UvA_Logo"; UniqueID = "\FRPTKRMV" ("\FRPTKRMV")
+Change component parameters (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 13:43:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "158"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MyComment"; Value = "UvA Logo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Partname"; Value = "UvA_Logo_Small_horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "<no part>"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Logo"; VariantName = "[No Variations]"

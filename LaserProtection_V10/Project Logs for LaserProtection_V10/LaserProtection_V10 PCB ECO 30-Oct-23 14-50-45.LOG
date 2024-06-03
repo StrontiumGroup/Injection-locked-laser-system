@@ -1,0 +1,1133 @@
+Added Component: Designator=C1(capAluSmd_d6.3_h7.7mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "470u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 11:39:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "EEEFTJ471XAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "470u 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "EEEFTJ471XAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2065955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(capAluSmd_d6.3_h7.7mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "470u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 11:39:42"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "80"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "EEEFTJ471XAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "470u 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "EEEFTJ471XAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2065955"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 14:01:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100n 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_100n_X7R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2581046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "100n"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 14:01:33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100n 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_100n_X7R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2581046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "5p"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "09-Sep-16 09:35:37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "163"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "5p 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_5p_NP0_50V_5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1759046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1n5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Jan-18 11:34:27"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "157"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1n5 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1n5_NP0_50V_5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(cap0805MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 14:12:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10u 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0805MD_10u_X5R_25V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1735530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "5XR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(cap0805MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 14:12:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "146"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10u 25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0805MD_10u_X5R_25V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1735530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "5XR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1u 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_1u_X5R_50V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3013383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(cap0603MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10u"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "09-Sep-16 09:42:50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "51"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10u 10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Cap0603MD_10u_X7R_10V_10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM188Z71A106KA3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SODFL470X110-2N
+Added Component: Designator=D2(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D6(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "28-Jul-23 14:37:29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "771-PLVA665A215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Zener"; VariantName = "[No Variations]"
+Added Component: Designator=D7(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "28-Jul-23 14:37:29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Rohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PLVA665A,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "771-PLVA665A215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Zener"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_3MM_PCB_EDGE_SMD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "26-May-16 08:35:38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "LED_3mm_PcbEdgeSmd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "710-151031SS04000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "LED"; VariantName = "[No Variations]"
+Added Component: Designator=D9(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=D10(SOD-323-2-NoPol)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "13-Oct-22 11:22:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "49"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PESD12VL1BA,115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8737363"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "TVS"; VariantName = "[No Variations]"
+Added Component: Designator=J1(618009231121)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Input/Output Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/618009231121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/618009231121?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 10:56:48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "161"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "618009231121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WR-DSUB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "618009231121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "618009231121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1841195"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SUB-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "1000VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDP102100X51N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 12:11:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MSS1048T-223MLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "22uH 3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MSS1048T-223MLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2288292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Added Component: Designator=L2(INDP102100X51N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 12:11:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "22uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Coilcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MSS1048T-223MLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "22uH 3.6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MSS1048T-223MLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2288292"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Pad_PT_c15h07mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "83"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.5h0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Pad_PT_c15h07mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:08:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "83"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_PT_c1.5h0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=P3(Header254-1x3)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Apr-16 15:00:36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Header254-1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1022248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P4(Header254-1x3)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Apr-16 15:00:36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Header254-1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1022248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P5(Header254-1x3)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Apr-16 15:00:36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Header254-1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1022248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P6(Header254-1x3)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Apr-16 15:00:36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Header254-1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1022248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P7(Header254-1x3)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Apr-16 15:00:36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "Header 2.54"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Header254-1x3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1022248"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Header"; VariantName = "[No Variations]"
+Added Component: Designator=P8(PCB114SMAFRAYC)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 12:11:50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "149"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taoglas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "960-PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Added Component: Designator=P9(PCB114SMAFRAYC)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "31-Mar-16 12:11:50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "149"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taoglas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SMA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "960-PCB.114SMAFRA.YC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMA"; VariantName = "[No Variations]"
+Added Component: Designator=P10(Pad_SMD_c20mm)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "29-Oct-20 13:45:41"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "87"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "SolderPad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "SolderPad_SMD_c2.0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SolderPad"; VariantName = "[No Variations]"
+Added Component: Designator=R1(res1206MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res1206MD_2K2_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R2(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES2512MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 12:33:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "RC2512JK-7W4R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "RC2512JK-7W4R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1376977"; VariantName = "[No Variations]"
+Added Component: Designator=R4(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R5(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R6(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R7(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R8(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R9(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R10(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "265"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447233"; VariantName = "[No Variations]"
+Added Component: Designator=R11(res1206MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "538"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res1206MD_2K2_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES2512MD)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "11-Oct-23 12:33:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "RC2512JK-7W4R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "RC2512JK-7W4R7L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1376977"; VariantName = "[No Variations]"
+Added Component: Designator=R13(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "336"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_10K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2446547"; VariantName = "[No Variations]"
+Added Component: Designator=R14(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "560K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_560K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9331379"; VariantName = "[No Variations]"
+Added Component: Designator=R15(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_1M_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447285"; VariantName = "[No Variations]"
+Added Component: Designator=R16(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R17(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R18(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_100R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1576263"; VariantName = "[No Variations]"
+Added Component: Designator=R19(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R20(Bourns 3296Z)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "03-May-23 13:57:07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "3296Z-1-502LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "5K/25T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "3296Z-1-502LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "5K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2321825"; VariantName = "[No Variations]"
+Added Component: Designator=R21(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R22(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R23(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "560K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_560K_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "560K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9331379"; VariantName = "[No Variations]"
+Added Component: Designator=R24(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_1M_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447285"; VariantName = "[No Variations]"
+Added Component: Designator=R25(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "TvR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_100R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1576263"; VariantName = "[No Variations]"
+Added Component: Designator=R26(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "328"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_4K7_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2447385"; VariantName = "[No Variations]"
+Added Component: Designator=R27(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-16 11:35:26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "<Value>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R28(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-16 11:35:26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "<Value>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R29(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-16 11:35:26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "<Value>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=R30(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "30-Mar-16 10:33:13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "298"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_270R_1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "270R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "9330917"; VariantName = "[No Variations]"
+Added Component: Designator=R31(res0603MD)
+Add component (AddParameter): Name = "Author"; Value = "Twe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "23-Mar-16 11:35:26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "<Value>"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "Res0603MD_Generic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Added Component: Designator=T1(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:22:07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2454011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=T2(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:22:07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2454011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=T3(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:22:07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF5103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2454011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=T4(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:33:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2992317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=T5(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:33:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2992317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=T6(SOT95P230X110-3N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 10:33:18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MMBF4093"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2992317"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "FET N"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 14:25:23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "238"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Anolog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "INA821IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "INA821ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "INA821ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-INA821IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "InAmp"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "05-Jul-22 13:39:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "241"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "OPA2145IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "OPA2145IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "OPA2145IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-OPA2145IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "OpAmp"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "18-Oct-23 14:25:23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "238"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Anolog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "INA821IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "INA821ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "INA821ID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "595-INA821IDR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "InAmp"; VariantName = "[No Variations]"
+Added Component: Designator=U4(TSOP65P490X110-8N)
+Add component (AddParameter): Name = "Author"; Value = "EB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Checked by"; Value = "Unchecked"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreationDate"; Value = "27-Jun-23 08:40:04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "id"; Value = "227"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OnSemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerCode"; Value = "MC33161DMR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MyComment"; Value = "MC33161DMR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Partname"; Value = "MC33161DMR2G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2774746"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Comparator"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+6V Pin=C8-2
+Added Pin To Net: NetName=+6V Pin=C9-2
+Added Pin To Net: NetName=+6V Pin=C12-1
+Added Pin To Net: NetName=+6V Pin=D6-3
+Added Pin To Net: NetName=+6V Pin=D9-2
+Added Pin To Net: NetName=+6V Pin=J1-1
+Added Pin To Net: NetName=+6V Pin=R26-1
+Added Pin To Net: NetName=+6V Pin=U1-8
+Added Pin To Net: NetName=+6V Pin=U2-8
+Added Pin To Net: NetName=+6V Pin=U3-8
+Added Pin To Net: NetName=+6V Pin=U4-8
+Added Net: Name=+6V
+Added Pin To Net: NetName=-6V Pin=C10-1
+Added Pin To Net: NetName=-6V Pin=C11-1
+Added Pin To Net: NetName=-6V Pin=D7-1
+Added Pin To Net: NetName=-6V Pin=D10-1
+Added Pin To Net: NetName=-6V Pin=J1-5
+Added Pin To Net: NetName=-6V Pin=U1-5
+Added Pin To Net: NetName=-6V Pin=U2-4
+Added Pin To Net: NetName=-6V Pin=U3-5
+Added Net: Name=-6V
+Added Pin To Net: NetName=CurClt Vsense+ Pin=P5-2
+Added Pin To Net: NetName=CurClt Vsense+ Pin=R2-2
+Added Net: Name=CurClt Vsense+
+Added Pin To Net: NetName=CurCtl Anode Pin=J1-8
+Added Pin To Net: NetName=CurCtl Anode Pin=P3-1
+Added Net: Name=CurCtl Anode
+Added Pin To Net: NetName=CurCtl Cathode Pin=J1-7
+Added Pin To Net: NetName=CurCtl Cathode Pin=P4-3
+Added Net: Name=CurCtl Cathode
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-3
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Net: Name=GND
+Added Pin To Net: NetName=LD-Anode-In Pin=C1-P
+Added Pin To Net: NetName=LD-Anode-In Pin=C2-P
+Added Pin To Net: NetName=LD-Anode-In Pin=C3-1
+Added Pin To Net: NetName=LD-Anode-In Pin=C4-1
+Added Pin To Net: NetName=LD-Anode-In Pin=L1-1
+Added Pin To Net: NetName=LD-Anode-In Pin=P3-2
+Added Pin To Net: NetName=LD-Anode-In Pin=P5-1
+Added Pin To Net: NetName=LD-Anode-In Pin=P7-2
+Added Pin To Net: NetName=LD-Anode-In Pin=R1-1
+Added Net: Name=LD-Anode-In
+Added Pin To Net: NetName=LD-Anode-out Pin=P1-1
+Added Pin To Net: NetName=LD-Anode-out Pin=P7-3
+Added Pin To Net: NetName=LD-Anode-out Pin=R3-2
+Added Pin To Net: NetName=LD-Anode-out Pin=T1-1
+Added Pin To Net: NetName=LD-Anode-out Pin=T2-1
+Added Pin To Net: NetName=LD-Anode-out Pin=T3-1
+Added Pin To Net: NetName=LD-Anode-out Pin=T4-2
+Added Pin To Net: NetName=LD-Anode-out Pin=T5-2
+Added Pin To Net: NetName=LD-Anode-out Pin=T6-2
+Added Net: Name=LD-Anode-out
+Added Pin To Net: NetName=LD-Cathode-In Pin=C1-N
+Added Pin To Net: NetName=LD-Cathode-In Pin=C2-N
+Added Pin To Net: NetName=LD-Cathode-In Pin=C3-2
+Added Pin To Net: NetName=LD-Cathode-In Pin=C4-2
+Added Pin To Net: NetName=LD-Cathode-In Pin=L2-1
+Added Pin To Net: NetName=LD-Cathode-In Pin=P4-2
+Added Pin To Net: NetName=LD-Cathode-In Pin=P5-3
+Added Pin To Net: NetName=LD-Cathode-In Pin=P6-2
+Added Pin To Net: NetName=LD-Cathode-In Pin=R11-1
+Added Net: Name=LD-Cathode-In
+Added Pin To Net: NetName=LD-Cathode-out Pin=P2-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=P6-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R5-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R6-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R7-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R8-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R9-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R10-1
+Added Pin To Net: NetName=LD-Cathode-out Pin=R12-2
+Added Pin To Net: NetName=LD-Cathode-out Pin=U2-5
+Added Net: Name=LD-Cathode-out
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R16-1
+Added Pin To Net: NetName=NetC5_1 Pin=R17-2
+Added Pin To Net: NetName=NetC5_1 Pin=R19-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R16-2
+Added Pin To Net: NetName=NetC5_2 Pin=R27-1
+Added Pin To Net: NetName=NetC5_2 Pin=T1-3
+Added Pin To Net: NetName=NetC5_2 Pin=T2-3
+Added Pin To Net: NetName=NetC5_2 Pin=T3-3
+Added Pin To Net: NetName=NetC5_2 Pin=T4-3
+Added Pin To Net: NetName=NetC5_2 Pin=T5-3
+Added Pin To Net: NetName=NetC5_2 Pin=T6-3
+Added Pin To Net: NetName=NetC5_2 Pin=U2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R13-2
+Added Pin To Net: NetName=NetC6_1 Pin=U1-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-2
+Added Pin To Net: NetName=NetC6_2 Pin=P8-2
+Added Pin To Net: NetName=NetC6_2 Pin=P8-2
+Added Pin To Net: NetName=NetC6_2 Pin=P8-2
+Added Pin To Net: NetName=NetC6_2 Pin=P8-2
+Added Pin To Net: NetName=NetC6_2 Pin=R15-1
+Added Pin To Net: NetName=NetC6_2 Pin=R18-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-7
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R20-1
+Added Pin To Net: NetName=NetC7_2 Pin=R20-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R30-1
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=P8-1
+Added Pin To Net: NetName=NetD3_2 Pin=R13-1
+Added Pin To Net: NetName=NetD3_2 Pin=R15-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=P9-2
+Added Pin To Net: NetName=NetD4_2 Pin=P9-2
+Added Pin To Net: NetName=NetD4_2 Pin=P9-2
+Added Pin To Net: NetName=NetD4_2 Pin=P9-2
+Added Pin To Net: NetName=NetD4_2 Pin=R24-1
+Added Pin To Net: NetName=NetD4_2 Pin=R25-2
+Added Pin To Net: NetName=NetD4_2 Pin=U3-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=P9-1
+Added Pin To Net: NetName=NetD5_2 Pin=R24-2
+Added Pin To Net: NetName=NetD5_2 Pin=U3-4
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R30-2
+Added Pin To Net: NetName=NetD8_1 Pin=U4-5
+Added Pin To Net: NetName=NetD8_1 Pin=U4-6
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R26-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetJ1_6 Pin=J1-6
+Added Pin To Net: NetName=NetJ1_6 Pin=R4-1
+Added Net: Name=NetJ1_6
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=R2-1
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R3-1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=R11-2
+Added Pin To Net: NetName=NetL2_2 Pin=R12-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetP10_1 Pin=P10-1
+Added Pin To Net: NetName=NetP10_1 Pin=R29-1
+Added Net: Name=NetP10_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=T1-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=T2-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=T3-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=T4-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=T5-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=T6-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U1-2
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U1-3
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U1-7
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-3
+Added Net: Name=NetR19_1
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U2-6
+Added Pin To Net: NetName=NetR21_1 Pin=U2-7
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=R22-2
+Added Pin To Net: NetName=NetR21_2 Pin=U2-3
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U3-2
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=U3-3
+Added Net: Name=NetR23_2
+Added Pin To Net: NetName=NetR27_2 Pin=R27-2
+Added Pin To Net: NetName=NetR27_2 Pin=R28-1
+Added Pin To Net: NetName=NetR27_2 Pin=U4-2
+Added Net: Name=NetR27_2
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=R29-2
+Added Pin To Net: NetName=NetR28_2 Pin=R31-1
+Added Pin To Net: NetName=NetR28_2 Pin=U4-1
+Added Pin To Net: NetName=NetR28_2 Pin=U4-3
+Added Net: Name=NetR28_2
+Added Class: Name=LaserProtection_Top_V10

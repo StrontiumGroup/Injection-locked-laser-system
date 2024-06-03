@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 08:36:14 On 10-Nov-23
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LaserProtection_V10.PrjPcb]
+   Generated File[//amsuni.sharepoint.com/sites/FNWI_ORG_FB_TC/Gedeelde documenten/General/Projects/IOP_Schreck_LaserProtection/Altium/LaserProtection_V10/Output/BOM/Bill of Materials-LaserProtection_V10.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 08:36:18 On 10-Nov-23
